@@ -11,5 +11,8 @@ In this repository you will find a notebook for each database, one notebook to m
    2. Model for Calle 13 West-East direction: 'Model_Cl13_WE.ipynb'
    3. Model for Calle 80 East-West direction: 'Model_Cl80_EW.ipynb'
    4. Model for Calle 80 West-East direction: 'Model_Cl80_WE.ipynb'
+   
+Also, there is a folder with the dash application named SmartFlow.
+
 
         
