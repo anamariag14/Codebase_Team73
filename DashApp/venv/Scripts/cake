@@ -1,0 +1,5 @@
+#!c:\users\fmontano\documents\ds4a\project\deploy\venv\scripts\python.exe -B
+# -*- coding: utf-8 -*-
+
+from cake.application import main
+main()
